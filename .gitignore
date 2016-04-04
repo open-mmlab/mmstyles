@@ -157,3 +157,7 @@ pythontex-files-*/
 
 # Latexian
 TSWLatexianTemp*
+
+# Generated results
+demo.pdf
+
