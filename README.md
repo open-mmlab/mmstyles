@@ -1,2 +1,3 @@
-# dhstyle
-Latex style file to facilitate writing of technical papers
+# mmstyles
+
+Latex styles for paper writing in Multimedia Lab.
